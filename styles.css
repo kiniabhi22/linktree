@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+body{
+    background-image:url(https://cutewallpaper.org/21/animation-background-gif/Animated-GIFs-Ideas-Prezi-Next-Community.gif);
+    background-repeat: no-repeat;
+    background-size: auto 100vh;
+    overflow:hidden;
+    
+    background-position: center center;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+img{
+height: 150px;
+width:auto ;
+margin-bottom: 20px;
+border-radius: 10px;
+
+}
+a{
+    color:black;
+    text-decoration: none;
+}
+.insta
+{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding:15px;
+    font-size:20px;
+    width:150px;
+    text-align:center;
+    
+    margin-bottom: 20px;
+
+}
+.insta:hover
+{
+ background-color: rgb(247, 6, 186);
+ color: white;
+ transition: 0.5s;
+ 
+}
+
+
+
+
+.facebook
+{
+   border: 1px solid black ;
+   border-radius: 5px;
+   padding: 15px;
+   font-size: 20px;
+   width: 150px;
+   text-align: center;
+   
+   margin-bottom: 20px;
+
+
+
+}
+.facebook:hover
+{
+ background-color: rgb(31, 151, 221);
+ color: white;
+ transition: 0.5s;
+}
+.snapchat
+{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 15px;
+    font-size: 20px;
+    width:150px ;
+    text-align: center;
+    
+    margin-bottom: 20px;
+
+}
+.snapchat:hover
+{
+ background-color: yellow;
+ color: black;
+ transition: 0.5s;
+}
+.name 
+{
+
+ font-size: 30px;
+ margin-bottom: 20px;
+
+}
+.parent
+{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+
+}
+h1,.name
+{
+ text-shadow: white 5px 5px 3px;
+
+
+}
