@@ -59,7 +59,7 @@ a{
 }
 .twiter:hover
 {
- background-color: rgb(31, 151, 221);
+ background-color: blue;
  color: white;
  transition: 0.5s;
 }
