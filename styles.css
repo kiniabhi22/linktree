@@ -5,7 +5,7 @@ body{
     background-size: auto 100vh;
     overflow:hidden;
     
-    background-position: center ;
+    background-position: center center ;
     font-family: 'Open Sans', sans-serif;
     
 }
@@ -108,7 +108,7 @@ a{
   display:flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: left;
 
 
 }
