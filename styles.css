@@ -43,7 +43,7 @@ a{
 
 
 
-.twiter
+.twitter
 {
    border: 1px solid black ;
    border-radius: 5px;
@@ -57,7 +57,7 @@ a{
 
 
 }
-.twiter:hover
+.twitter:hover
 {
  background-color: blue;
  color: white;
