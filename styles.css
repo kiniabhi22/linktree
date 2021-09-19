@@ -95,8 +95,8 @@ a{
 {
  background-color: gray;
  color: black;
- transition: 0.5s;
-.name 
+    transition: 0.5s;}
+    .name 
 {
 
  font-size: 30px;
