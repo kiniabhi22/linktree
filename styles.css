@@ -43,7 +43,7 @@ a{
 
 
 
-.facebook
+.twiter
 {
    border: 1px solid black ;
    border-radius: 5px;
@@ -57,7 +57,7 @@ a{
 
 
 }
-.facebook:hover
+.twiter:hover
 {
  background-color: rgb(31, 151, 221);
  color: white;
